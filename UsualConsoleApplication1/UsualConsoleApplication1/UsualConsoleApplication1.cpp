@@ -2,6 +2,9 @@
 //
 
 #include "stdafx.h"
+#include "targetver.h"
+#include "math.h"
+#include "stdio.h"
 
 
 int main()
