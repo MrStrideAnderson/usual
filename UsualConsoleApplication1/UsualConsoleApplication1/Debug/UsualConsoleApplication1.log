@@ -1,3 +1,10 @@
-﻿  UsualConsoleApplication1.cpp
-  UsualConsoleApplication1.vcxproj -> d:\adore_anderson\Source\Repos\usual\UsualConsoleApplication1\Debug\UsualConsoleApplication1.exe
-  UsualConsoleApplication1.vcxproj -> d:\adore_anderson\Source\Repos\usual\UsualConsoleApplication1\Debug\UsualConsoleApplication1.pdb (Full PDB)
+﻿  UsualConsoleApplication1.c
+d:\visual studio 2015\git\usual\usualconsoleapplication1\usualconsoleapplication1\usualconsoleapplication1.c(15): warning C4255: “main”: 未给出函数原型: 将“()”转换为“(void)”
+d:\visual studio 2015\git\usual\usualconsoleapplication1\usualconsoleapplication1\usualconsoleapplication1.c(17): warning C4189: “k”: 局部变量已初始化但不引用
+d:\visual studio 2015\git\usual\usualconsoleapplication1\usualconsoleapplication1\usualconsoleapplication1.c(17): warning C4189: “b”: 局部变量已初始化但不引用
+d:\visual studio 2015\git\usual\usualconsoleapplication1\usualconsoleapplication1\usualconsoleapplication1.c(30): warning C4710: “int printf(const char *const ,...)”: 函数未内联
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(944): note: 参见“printf”的声明
+d:\visual studio 2015\git\usual\usualconsoleapplication1\usualconsoleapplication1\usualconsoleapplication1.c(30): warning C4710: “int scanf_s(const char *const ,...)”: 函数未内联
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1307): note: 参见“scanf_s”的声明
+  UsualConsoleApplication1.vcxproj -> D:\visual studio 2015\git\usual\UsualConsoleApplication1\Debug\UsualConsoleApplication1.exe
+  UsualConsoleApplication1.vcxproj -> D:\visual studio 2015\git\usual\UsualConsoleApplication1\Debug\UsualConsoleApplication1.pdb (Full PDB)
